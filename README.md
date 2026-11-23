@@ -1,3 +1,5 @@
+![JBL SoundLab PRO Banner](./banner.jpg)
+
 # JBL SoundLab PRO
 
 **Tuned by `shayan`**
