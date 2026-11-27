@@ -10,7 +10,8 @@ A custom Android DSP & Acoustic Equalizer app designed with a JBL-inspired dark/
 
 ## Download
 
-- **[Download JBL-SoundLab-PRO-v1.0.apk](./JBL-SoundLab-PRO-v1.0.apk)** (~40.9 MB)
+- **[Download JBL-SoundLab-PRO-v1.0.apk (Direct)](https://raw.githubusercontent.com/shayanmahster/JBL-SoundLab/main/JBL-SoundLab-PRO-v1.0.apk)** (~40.9 MB)
+- **[Mirror / Alt Raw Link](https://github.com/shayanmahster/JBL-SoundLab/raw/refs/heads/main/JBL-SoundLab-PRO-v1.0.apk)**
 
 ---
 
